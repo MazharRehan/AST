@@ -1,0 +1,8 @@
+POM pages files:
+
+https://login.microsoftonline.com/  ---> SignInPage.java
+https://www.office.com/?auth=2      ---> OfficeHomePage.java
+https://www.office.com/apps/        ---> OfficeAppsPage.java
+https://outlook.office.com/mail/    ---> OutlookHomePage.java
+https://outlook.office.com/mail/drafts ---> DraftsPage.java
+https://login.microsoftonline.com/common/oauth2/logout  ---> SignOutConfirmationPage.java

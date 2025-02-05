@@ -1,0 +1,6 @@
+HTTP Status Code Categories Explained
+1xx - Informational: The server has received the request and is continuing the process 
+2xx - Successful: The request was successful and the browser has received the expected information 
+3xx (Redirection): You have been redirected and the completion of the request requires further action
+4xx (Client Error): The website or the page could not be reached, either the page is unavailable or the request contains bad syntax 
+5xx (Server Error): While the request appears to be valid, the server could not complete the request
